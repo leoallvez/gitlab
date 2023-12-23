@@ -1,9 +1,13 @@
 ### Mudanças
-<!-- Descreva as alterações ou adições específicas que este pull request traz para o projeto --->
+<!-- 
+    Detalhe as alterações ou adições que este pull request traz para o projeto 
+    https://www.boldare.com/tech-blog/pull-request-templates-on-github/
+--->
 
 
 ### Checklist
  - **Consistência no Código Fonte:**
+    <!-- Mude o campo de check [x] para marcar uma verificação" -->
     - [ ] A feature esta totalmente implementada no idioma Inglês.
     - [ ] A feature segue os princípios do SOLID e práticas de clean code.
     - [ ] Não há dependências desnecessárias ou versões desatualizadas.
