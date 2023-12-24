@@ -31,3 +31,4 @@ N/A
     - [ ] Code has unit tests with a minimum coverage of 70%.
 - **Continuous Integration:**
     - [ ] All steps of the pipeline (GitHub Actions) have been completed successfully.
+
